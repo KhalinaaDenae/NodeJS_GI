@@ -1,0 +1,64 @@
+{
+    "employees": [
+      {
+        "employeeID": 1,
+        "name": "John Doe",
+        "salary": 500,
+        "department": "Marketing"
+      },
+      {
+        "employeeID": 2,
+        "name": "Janice Smith",
+        "salary": 4000,
+        "department": "Marketing"
+      },
+      {
+        "employeeID": 3,
+        "name": "Julia Smith",
+        "salary": 4000,
+        "department": "Finance"
+      },
+      {
+        "employeeID": 4,
+        "name": "Julie Smith",
+        "salary": 500,
+        "department": "HR"
+      },
+      {
+        "employeeID": 5,
+        "name": "Joe Smith",
+        "salary": 3000,
+        "department": "PR"
+      },
+      {
+        "employeeID": 6,
+        "name": "Jane Smith",
+        "salary": 6300,
+        "department": "HR"
+      },
+      {
+        "employeeID": 7,
+        "name": "John Sampson",
+        "salary": 60400,
+        "department": "HR"
+      },
+      {
+        "employeeID": 8,
+        "name": "Johnson Smith",
+        "salary": 60000,
+        "department": "Finance"
+      },
+      {
+        "employeeID": 9,
+        "name": "Janice Smith",
+        "salary": 30000,
+        "department": "Engineering"
+      },
+      {
+        "employeeID": 10,
+        "name": "Janet Thompson",
+        "salary": 200000,
+        "department": "Marketing"
+      }
+    ]
+  }
